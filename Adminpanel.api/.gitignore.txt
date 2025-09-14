@@ -1,0 +1,7 @@
+# .gitignore
+**/.vs/
+**/.vscode/
+**/bin/
+**/obj/
+*.user
+*.suo
